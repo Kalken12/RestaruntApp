@@ -1,0 +1,324 @@
+{
+    "Data" :[
+        {
+            "name": "Ghar Jaisa 3.0",
+            "id": 1,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 200,
+            "minOrder": 50,
+            "deliveryTime": 40,
+            "payment_methods": {
+              "card": true,
+              "cash": false
+            },
+            "rating": 4.3,
+            "votes": 200,
+            "reviews": 451,
+            "src": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wliruhzpc6aepfplmkha"
+          },
+          {
+            "name": "Urban Chili ",
+            "id": 2,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo":500,
+            "minOrder": 50,
+            "deliveryTime": 60,
+            "payment_methods": {
+              "card": false,
+              "cash": true
+            },
+            "rating": 4.1,
+            "votes": 300,
+            "reviews": 445,
+            "src": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/vf80rfdhlag31g0ldoff"
+          },
+          {
+            "name": "North Indian",
+            "id": 3,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 600,
+            "minOrder": 50,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": true,
+              "cash": true
+            },
+            "rating": 2.8,
+            "votes": 300,
+            "reviews": 445,
+            "src": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/thrhpg7wboobiwpnf6v7"
+          },
+          {
+            "name": "New Dastarkhan",
+            "id": 4,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 600,
+            "minOrder": 50,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": false,
+              "cash": true
+            },
+            "rating": 3,
+            "votes": 300,
+            "reviews": 445,
+            "src": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/oxdv1otk7vcqxszppctu"
+          },
+          {
+            "name": "Grand Chola",
+            "id": 5,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 500,
+            "minOrder": 200,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": true,
+              "cash": false
+            },
+            "rating": 4.9,
+            "votes": 3000,
+            "reviews": 2445,
+            "src": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/f3g4v8q9wnppp84nnsxo"
+          },
+          {
+            "name": "The Raintree",
+            "id": 6,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 3000,
+            "minOrder": 200,
+            "deliveryTime": 50,
+            "payment_methods": {
+              "card": true,
+              "cash": true
+            },
+            "rating": 4.9,
+            "votes": 30650,
+            "reviews": 12445,
+            "src":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zvqv0cmlp2e5doqv5lps"
+          
+          },
+          {
+            "name": "Karaikudi Chettinadu",
+            "id": 7,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 1500,
+            "minOrder": 500,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": true,
+              "cash": true
+            },
+            "rating": 3.5,
+            "votes": 650,
+            "reviews": 15,
+            "src": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/tektklrcxdsrvatbzmxm"
+          },
+          {
+            "name": "A Nawabi Kababia Zaika-e-lucknow",
+            "id": 8,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 500,
+            "minOrder": 200,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": true,
+              "cash": true
+            },
+            "rating": 3.8,
+            "votes": 506,
+            "reviews": 645,
+            "src":" https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/olw5wurhx7r8rga7iwan"
+          },
+          {
+            "name": "EAT A BURGER",
+            "id": 9,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 1000,
+            "minOrder": 200,
+            "deliveryTime": 2,
+            "payment_methods": {
+              "card": true,
+              "cash": false
+            },
+            "rating": 2.5,
+            "votes": 850,
+            "reviews": 72545,
+            "src":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lwtdaemfoqzdierlayz5"
+          },
+          {
+            "name": "Only Mo Mo 's",
+            "id": 10,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 700,
+            "minOrder": 100,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": false,
+              "cash": true
+            },
+            "rating": 4.5,
+            "votes": 65450,
+            "reviews": 86445,
+            "src": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/cwgppnlcc64vmulm69tx"
+          },
+          {
+            "name": "Kobe Sizzlers",
+            "id": 11,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 1200,
+            "minOrder": 500,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": true,
+              "cash": false
+            },
+            "rating": 4.7,
+            "votes": 70650,
+            "reviews": 42445,
+            "src": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ys2za9vpmu2iu0pqvfhf"
+          },
+          {
+            "name": "Fried Rice",
+            "id": 12,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 800,
+            "minOrder": 200,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": true,
+              "cash": true
+            },
+            "rating": 3.7,
+            "votes": 650,
+            "reviews": 3645,
+            "src": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/gh90p2a6b2b3kv2jh4w6"
+          },
+          {
+            "name": "Wok Monk",
+            "id": 13,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 3000,
+            "minOrder": 2000,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": true,
+              "cash": false
+            },
+            "rating": 1.5,
+            "votes": 450,
+            "reviews": 200,
+            "src": "https://b.zmtcdn.com/data/reviews_photos/280/ea04387ceb1c81d114f1e901bd45d280_1527338372.jpg"
+          },
+          {
+            "name": "High on Grills",
+            "id": 14,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 2000,
+            "minOrder": 500,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": true,
+              "cash": false
+            },
+            "rating": 3.5,
+            "votes": 90650,
+            "reviews": 112445,
+            "src": "https://placepull.com/wp-content/uploads/2020/01/restaurant-busy-885-600x345.jpg"
+          },
+          {
+            "name": "Frozen Bottle",
+            "id": 15,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 350,
+            "minOrder": 100,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": false,
+              "cash": true
+            },
+            "rating": 5,
+            "votes": 30650,
+            "reviews": 12445,
+            "src": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zv3ewgodkhz4lhlldq5c"
+          },
+          {
+            "name": "Kebabery",
+            "id": 16,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 600,
+            "minOrder": 100,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": true,
+              "cash": true
+            },
+            "rating": 2.8,
+            "votes": 650,
+            "reviews": 835,
+            "src": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zv3ewgodkhz4lhlldq5c"
+          },
+          {
+            "name": "Chilli Patato",
+            "id": 17,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 300,
+            "minOrder": 50,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": true,
+              "cash": true
+            },
+            "rating": 4.9,
+            "votes": 90650,
+            "reviews": 17445,
+            "src": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/p0aif157hzqewhxg59cv"
+          },
+          {
+            "name": "The Baker's Nook",
+            "id": 18,
+            "cuisine": ["Deserts"],
+            "costForTwo": 50,
+            "minOrder": 50,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": true,
+              "cash": true
+            },
+            "rating": 4.2,
+            "votes": 5650,
+            "reviews": 8249,
+            "src": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ndiqzyw6wcbz66orqnaa"
+          },
+          {
+            "name": "Chidambaram New Moorthy Cafe",
+            "id": 19,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 500,
+            "minOrder": 150,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": true,
+              "cash": true
+            },
+            "rating": 5,
+            "votes": 90650,
+            "reviews": 92445,
+            "src": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/w0nisd3webep2u2fwrmi"
+          },
+          {
+            "name": "Little Hut",
+            "id": 20,
+            "cuisine": ["continental", "Asian", "Pizza", "Deserts"],
+            "costForTwo": 30,
+            "minOrder": 200,
+            "deliveryTime": 30,
+            "payment_methods": {
+              "card": false,
+              "cash": true
+            },
+            "rating": 1.6,
+            "votes": 650,
+            "reviews": 445,
+            "src": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/uvqagzpcjrrrs7yvjxvy"
+          }
+  ]}
